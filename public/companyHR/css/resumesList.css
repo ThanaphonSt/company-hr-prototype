@@ -1,0 +1,121 @@
+@media only screen and (min-width : 993px) {
+	.brand-size{
+		font-size:32px;
+	}
+	.tab-content{
+		padding-left: 24px !important;
+		padding-right: 24px !important;
+	}
+	.font-size{
+		font-size:13px !important;
+	}
+	.card-content-layout{
+		padding-left: 24px !important;
+		padding-top: 24px !important;
+		padding-right: 24px !important;
+		padding-bottom: 0px !important;
+	}
+	.no-padding{
+		padding:0px !important;
+	}
+	.font-style{
+		font-weight: bold;	
+	}
+}
+@media only screen and (max-width : 992px) {
+	.brand-size{
+		font-size:32px;
+	}
+	.tab-content{
+		padding-left: 24px !important;
+		padding-right: 24px !important;
+	}
+	.font-size{
+		font-size:13px !important;
+	}
+	.card-content-layout{
+		padding-left: 24px !important;
+		padding-top: 24px !important;
+		padding-right: 24px !important;
+		padding-bottom: 0px !important;
+	}
+	.no-padding{
+		padding:0px !important;
+	}
+	.font-style{
+		font-weight: bold;	
+	}
+}
+@media only screen and (max-width : 600px) {
+	.brand-size{
+		font-size:24px;
+	}
+	.tab-content{
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	.row{
+		padding: 0px !important;
+		margin: 0px !important;
+	}
+	.font-size{
+		font-size:14px !important;
+	}
+	.card-content-layout{
+		padding: 0px !important;
+	}
+	.no-padding{
+		padding-top:0px !important;
+		padding-right: 4px !important;
+		padding-left: 4px !important;
+		padding-bottom: 8px !important;
+	}
+	.small-padding{
+		padding-left: 24% !important;
+		padding-right: 24% !important;
+		padding-bottom: 8px !important;
+	}
+	.font-style{
+		font-weight: normal;
+	}
+	.position-layout{
+		padding-bottom: 16px !important;
+	}
+}
+.progress{
+	height: 10px;
+	width: 100%;
+	background-color:#ffe0b2 !important;
+}
+.font-color-tabs{
+	color:#01579b !important;
+}
+.tabs .indicator {
+	background-color: #01579b !important;
+}
+.card-action{
+	padding:10px !important;
+}
+
+.content-card-left{
+	float: left !important;
+}
+.content-card-right{
+	float: right !important;
+	padding: 0px !important;
+}
+
+.icon-gender{
+	width:24px;
+	height:24px;
+}
+
+ul.pagination > li.active{
+    background: #ffab28
+} 
+.no-margin{
+	margin: 0px !important;
+}
+.text-card-action{
+	margin:0px !important;
+}

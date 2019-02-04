@@ -1,0 +1,85 @@
+@media only screen and (min-width : 993px) {
+.input-search{
+    margin-top: 30px;
+}
+.search-layout{
+    margin-top:28px;
+}
+.input-field input[type=search]{
+    padding-left: 0px !important;
+   
+}
+}
+@media only screen and (max-width : 992px) {
+.input-search{
+    margin-top: 30px;
+}
+.search-layout{
+    margin-top:28px;
+    padding: 0px;
+}
+.input-field input[type=search]{
+    padding-left: 0px;
+}
+}
+@media only screen and (max-width : 600px) {
+    .input-search{
+        margin-top: 0px;
+    }
+    .search-layout{
+        margin-top:0px;
+    }
+    .input-field input[type=search]{
+        padding-left: 0px;
+        margin-top: 0px !important;
+        padding-top: 0px !important;
+        width: 100% !important;
+    }
+    .input-field{
+        margin-top: 0px;
+    }
+   
+}
+    .table-layout{
+    	margin-left:150px;
+    	margin-right:150px;
+    }
+    ul.pagination-sm >li.active{
+    background: #ffab28;
+} 
+
+.logout{
+    position: absolute;
+    right:0;
+    top:0;
+}
+.no-padding{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.brand-layout{
+    margin-top:28px;
+    margin-left: 16px;
+}
+
+.input-field input[type=search]{
+    padding-left: 0px;
+}
+.text-detail{
+    font-size: 13px;
+    color: #616161;
+}
+.layout-detail{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.layout-name-company{
+    font-size: 20px;
+    margin-bottom:0px !important;
+
+}
+.name-company{
+    padding-left: 10px;
+}
+

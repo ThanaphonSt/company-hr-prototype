@@ -1,0 +1,7 @@
+/vendor/*
+/node_modules/*
+/Homestead.yaml 
+/composer.lock
+/composer.phar
+/phpunit.xml
+/.env

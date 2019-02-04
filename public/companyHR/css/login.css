@@ -1,0 +1,47 @@
+body{
+	background-image:url('/pic/BG.jpg');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.parent {
+  position: relative;
+  height: 100vh;
+}
+.child {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0,0,0,0.5);
+}
+.h4{
+	margin-left: 45px !important;
+	margin-right: 45px !important;
+}
+.input-field .prefix.active{
+	color: #03a9f4;
+}
+.btn{
+	margin-bottom: 20px;
+	background-color: #03a9f4;
+}
+.btn:hover{
+	background-color: #29b6f6;
+}
+.input-field div.error{
+    position: relative;
+    top: -1rem;
+    left: 0rem;
+    font-size: 0.8rem;
+    color: #b71c1c;
+    -webkit-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    transform: translateY(0%);
+    padding-left: 12%; 
+  }
+.height{
+	height: 0px;
+}

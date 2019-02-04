@@ -1,0 +1,145 @@
+@media only screen and (min-width : 993px) {
+    .layout-top{
+        padding-left:24px !important;
+        padding-right:24px !important;
+        padding-top:24px !important;
+    }
+    .layout-card-job{
+        margin-left:24px; 
+        margin-right:24px;
+    }
+    .card-action{
+        padding: 12px !important;
+    }
+    .card-content-CTR{
+        padding-top:0px !important;
+    }
+    .icon-card-layout{
+        padding-bottom: 10px !important;
+    }
+}
+@media only screen and (max-width : 992px) {
+    .layout-top{
+        padding-left:24px !important;
+        padding-right:24px !important;
+        padding-top:24px !important;
+    }
+    .layout-card-job{
+        margin-left:24px; 
+        margin-right:24px;
+    }
+    .card-action{
+        padding: 12px !important;
+    }
+    .card-content-CTR{
+        padding-top:0px !important;
+    }
+    .icon-card-layout{
+        padding-bottom: 10px !important;
+    }
+}
+@media only screen and (max-width : 600px) {
+    .layout-top{
+        padding:0px !important;
+
+    }
+    .layout-card-job{
+        margin-left:0px; 
+        margin-right:0px;
+        margin-top: 0px;
+    }
+    .card{
+        margin-top: 8px !important;
+        margin-bottom: 0px !important;
+    }
+    .card-content{
+        padding-top: 4px;
+        padding-bottom: 0px;
+    }
+    .jobDetail{
+        float: left;
+        padding-bottom: 10px !important;
+    }
+
+    .jobApply{
+        float: right;
+        padding-bottom: 10px !important;
+        
+    }
+    .card-action{
+        padding-top: 16px !important;
+        padding-bottom: 16px !important;
+        padding-right: 24px !important;
+        padding-left: 24px !important;
+    }
+    .card-content-CTR{
+        padding:0px !important;
+    }
+    .row{
+        margin: 0px !important;
+    }
+    .icon-card-layout{
+        padding-bottom: 10px !important;
+    }
+    .margin-card{
+        margin-top:8px !important;
+    }.brand-layout{
+        margin-right: 32px !important;
+    }
+}
+
+
+.rcorners-border {
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px ;
+}
+.btn-Read:hover{
+    color: #ffd180 !important;
+}
+.btn-Job:hover{
+    color: #ffd180;
+}
+.rcorners-icons {
+    border-radius: 32px;
+    border: 2px solid #81d4fa;
+    padding: 16px;
+    background: #81d4fa;
+    color: #ffffff;
+}
+.rcorners-icons-top {
+    border-radius: 32px;
+    padding: 16px;
+    background: #ffba28;
+    color: #ffffff;
+}
+.job-border{
+    border-bottom: 1px solid;
+    border-color: #e0e0e0;
+}
+
+
+h1{
+    margin: 40px 0 60px 0;
+}
+
+.clearfix:before,.clearfix:after {content: " "; display: table;}
+.clearfix:after {clear: both;}
+.clearfix {*zoom: 1;
+}
+.font-size-card{
+    font-size:24px;
+}
+
+.font-size-top{
+    font-size:32px;
+}
+.job-content{
+    margin-bottom:-10px;
+}
+.font-size-jobtitle{
+    font-size:18px;
+}
+ul.pagination > li.active{
+    background: #ffab28;
+}
